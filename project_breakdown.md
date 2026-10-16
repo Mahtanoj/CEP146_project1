@@ -6,8 +6,8 @@
 
 | # | Name | Video Segment | GitHub Role |
 |---|------|---------------|-------------|
-| 1 | Rei Jashari |  Intro | Slides and combined script |
-| 2 | Mahta Nojavan |  What happened | Topic Discussion and Issue tracking |
+| 1 | Rei Jashari |  Intro | Topic Discussion and combined script |
+| 2 | Mahta Nojavan |  What happened | Issue tracking |
 | 3 | Micaela Ivanova Suarez Vargas |  Why it matters | Sources list and citation checks |
 | 4 | Bryan Velasco |  What's next | Repo setup and starter Issues |
 | 5 | Curtis Carpio | Conclusion | Video editing and YouTube upload |
