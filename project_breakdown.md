@@ -6,13 +6,13 @@
 
 | # | Name | Video Segment | GitHub Role |
 |---|------|---------------|-------------|
-| 1 | _Name_ |  Intro | Repo setup and starter Issues |
-| 2 | _Name_ |  What happened | Topic Discussion and Issue tracking |
-| 3 | _Name_ |  Why it matters | Sources list and citation checks |
-| 4 | _Name_ |  What's next | Slides and combined script |
-| 5 | _Name_ | Conclusion | Video editing and YouTube upload |
+| 1 | Rei Jashari |  Intro | Repo setup and starter Issues |
+| 2 | Mahta Nojavan |  What happened | Topic Discussion and Issue tracking |
+| 3 | Micaela Ivanova Suarez Vargas |  Why it matters | Sources list and citation checks |
+| 4 | Bryan Velasco |  What's next | Slides and combined script |
+| 5 | Rei Jashari | Conclusion | Video editing and YouTube upload |
 
-**Topic:** _TBD (decided in GitHub Discussions)_
+**Topic:** REA - Reverse Engineer Anything.
 **YouTube link (public):** _TBD_
 
 ---
@@ -32,18 +32,6 @@
 
 ---
 
-## Video Structure (about 2:50 total)
-
-| Time | Segment | Presenter | Content |
-|------|---------|-----------|---------|
-| 0:00-0:30 | Intro | Member 1 | Hook and what the event is |
-| 0:30-1:10 | What happened | Member 2 | Background and timeline |
-| 1:10-1:50 | Why it matters | Member 3 | Impact on developers and the industry |
-| 1:50-2:25 | What's next | Member 4 | Risks, ethics, and future outlook |
-| 2:25-2:50 | Conclusion | Member 5 | Key takeaways |
-
----
-
 ## Workflow Rules
 
 - All work is done on **branches** (e.g. `research-impact`, `script-segment-3`, `slide-design`, `video-edit`)
@@ -54,17 +42,6 @@
 - Commit messages say **what changed and why**
 - Team decisions and check-ins go in **GitHub Discussions**
 
-### PR Review Circle
-
-| Reviewer | Reviews PRs from |
-|----------|------------------|
-| Member 1 | Member 2 |
-| Member 2 | Member 3 |
-| Member 3 | Member 4 |
-| Member 4 | Member 5 |
-| Member 5 | Member 1 |
-
----
 
 ## Minimum Contributions Per Member
 
@@ -81,11 +58,11 @@
 
 | Phase | Tasks | Target Date |
 |-------|-------|-------------|
-| 1. Setup | Repo, labels, Discussions, topic selection, Issues created and assigned | _TBD_ |
-| 2. Research | Members 2-4 commit research notes; Members 1 and 5 draft intro and conclusion | _TBD_ |
-| 3. Script and visuals | Each member writes their segment; Member 4 combines; team does a timed read-through | _TBD_ |
-| 4. Record and edit | Each member records; Member 5 edits and uploads | _TBD_ |
-| 5. Wrap-up | Finish README, merge all PRs, final checklist review | _TBD_ |
+| 1. Setup | Repo, labels, Discussions, topic selection, Issues created and assigned | Oct. 14 2026 |
+| 2. Research | Members 2-4 commit research notes; Members 1 and 5 draft intro and conclusion | Oct. 16 2026 |
+| 3. Script and visuals | Each member writes their segment; Member 4 combines; team does a timed read-through | Oct. 17 2026 |
+| 4. Record and edit | Each member records; Member 5 edits and uploads | Oct. 18 2026 |
+| 5. Wrap-up | Finish README, merge all PRs, final checklist review | Oct. 20 2026  |
 
 ---
 
@@ -103,13 +80,13 @@
 
 | Issue Title | Label | Assignee |
 |-------------|-------|----------|
-| Set up repo, README, and labels | `setup` | Member 1 |
-| Run topic selection discussion | `planning` | Member 2 |
-| Research: background and timeline | `research` | Member 2 |
-| Research: impact on developers | `research` | Member 3 |
-| Research: ethics and future outlook | `research` | Member 4 |
-| Write script segments | `script` | All members |
-| Design slides / visuals | `design` | Member 4 |
-| Record voiceover segments | `recording` | All members |
-| Edit and upload video | `editing` | Member 5 |
-| Finalize README and final check | `review` | Member 1 |
+| Set up repo, README, and labels | `setup` | Bryan Velasco |
+| Run topic selection discussion | `planning` | All Members |
+| Research: background and timeline | `research` | Mahta Nojavan |
+| Research: impact on developers | `research` | Micaela Ivanova Suarez Vargas|
+| Research: ethics and future outlook | `research` | Bryan Velasco |
+| Write script segments | `script` | Rei Jashari |
+| Design slides / visuals | `design` | Curtis Carpio |
+| Record voiceover segments | `recording` | Rei Jashari, Bryan Velasco |
+| Edit and upload video | `editing` | Curtis Carpio |
+| Finalize README and final check | `review` | Bryan Velasco |
