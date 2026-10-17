@@ -23,11 +23,12 @@ flowchart TD
 2.	**Understand:** The AI coding agent uses REA’s output to understand the application’s functions, dependencies, and behavior
 3.	**Rebuild:** The AI coding agent uses this information to write and assess new code.  
 
-![REA workflow] (https://raw.githubusercontent.com/morluto/rea/refs/heads/main/website/public/assets/figures/rea-investigation-flow.svg)  
+
+![REA workflow](https://raw.githubusercontent.com/morluto/rea/refs/heads/main/website/public/assets/figures/rea-investigation-flow.svg)
 
 ### Example of REA’s Application  
 *Produced by: Abid Ali Awan (2026)*  
-[Reverse Engineer Chrome’s Dinosaur Game] (https://www.datacamp.com/tutorial/reverse-engineer-anything-rea-tutorial)
+[Reverse Engineer Chrome’s Dinosaur Game](https://www.datacamp.com/tutorial/reverse-engineer-anything-rea-tutorial)
 
 
 ## IS REA REALLY USEFUL FOR DEVELOPERS?  
