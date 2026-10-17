@@ -29,9 +29,28 @@ flowchart TD
 *Produced by: Abid Ali Awan (2026)*  
 [Reverse Engineer Chrome’s Dinosaur Game] (https://www.datacamp.com/tutorial/reverse-engineer-anything-rea-tutorial)
 
-## GUIDE FOR DEVELOPERS
 
-## ADVANTAGES & DISADVANTAGES
+## IS REA REALLY USEFUL FOR DEVELOPERS?  
+
+| **ADVANTAGES** | **DISADVANTAGES** |
+|---|---|
+| Useful to investigate abandoned software. | Older systems may contain inefficient code structures, making them difficult to understand and analyze. |
+| Recreate useful functionalities with improvements. | **Copyright:** Developers should avoid completely cloning a program with only minor changes. Instead, they should use REA to innovate and improve their own products. |
+| No advanced technical knowledge is required; users can give prompts in human language. | **Accuracy limitations:** Rebuilding an application accurately remains a weakness of REA, so developers may still struggle to understand how a program works. 
+> “Thomas has also retreated from his pledge to match Adobe’s feature set within a month, and now says it will take months” (Tsagkarakis, 2026). |
+| **New job opportunities:** Companies still need developers with legacy code skills to review AI results, fix errors, and maintain complex systems. | |
+| Developers can use REA to understand the architecture of poorly documented programs and improve them. | |
+| Developers can use REA to identify potential security risks in their products and projects. | |
+
+---
+
+***ADVANTAGE / DISADVANTAGE***
+
+REA still develops some inaccurate versions, because it cannot always recover the complete source code, and some software’s are not fully supported:
+>  “On the project’s site, the apps carry ‘early alpha’ or ‘in development’ labels, and one pixel artist has already described the Photoshop clone as ‘completely unusable’” (Tsagkarakis, 2026).
+
+
+## GUIDE FOR DEVELOPERS
 
 ## DEVELOPERS OPINIONS
 
