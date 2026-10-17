@@ -8,7 +8,7 @@ Antony also points out two risks that are easy to miss:
 
 - Local doesn’t mean private. REA does its analysis on your own computer, but the AI assistant still receives the results, and the company behind the AI has its own rules about what it keeps. Private information could still leave your computer.
 
-- The program being studied may be run. REA can sometimes run the app it’s examining, which could affect your own system. Which would not be ideal if analysing malware.
+- The program being studied may be ran. REA can sometimes run the app it’s examining, which could affect your own machine. Which would not be ideal if analysing malware.
 
 Antony also says the AI’s findings are clues to investigate, not finished answers to copy. A person still needs to decide whether it’s okay to build something new based on what was learned.
 
