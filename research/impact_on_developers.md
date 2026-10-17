@@ -79,4 +79,15 @@ On the other hand, Kutskir expresses a more negative perspective on REA. He expl
 Kutskir is also concerned about the impact on his reputation, explaining that users sometimes mistake modified Photopea versions with the official website.
 > “[…] I want my website to be the only source of a stable version of my program Photopea. I even received emails from people complaining about something in Photopea, and it took several emails to figure out that they are not using Photopea.com (so it ruins my reputation a little). I reported it to Github on the 4th of September 2026: […] a month later, I received this response: […] based on the facts presented to us, we're unable to confirm a violation of 17 U.S. Code § 1201.” (Hacker News, 2026)
 
-## REFERENCES
+## REFERENCES  
+-	Ali, A. (2026, October 14). Reverse Engineer Anything Tutorial: Using REA and Pi Coding Agent. *datacamp*. https://www.datacamp.com/tutorial/reverse-engineer-anything-rea-tutorial 
+-	Basatwar, G. (2022, December 1). Anti-reverse engineering: Well-known functions and techniques. *Doverunner*. https://doverunner.com/blogs/functions-and-techniques-of-anti-reverse-engineering/ 
+-	Chapman, J. (2026, June). Introduction to Model Context Protocol (MCP). *datacamp*. https://www.datacamp.com/courses/introduction-to-model-context-protocol-mcp 
+-	Chavez-Mattos, L. (2026, october 11). AI Cloned Photoshop. What’s Left of the Software Moat? *MindStudio*. https://www.mindstudio.ai/blog/ai-recreated-photoshop-software-moat
+-	Chavez-Mattos, L. (2026, October 11). Reverse Engineer Anything: What the Viral REA MCP Actually Does. *MindStudio*. https://www.mindstudio.ai/blog/reverse-engineer-anything-mcp
+-	Gray, J. (2026, October 7). Someone Rebuilt Free, Open-Source Versions of Photoshop, Premiere, and Lightroom Using AI. *PetaPixel*. https://petapixel.com/2026/10/07/someone-rebuilt-free-open-source-versions-of-photoshop-premiere-and-lightroom-using-ai/ 
+-	Hacker News. (2026, October 7). Tell HN: GitHub refuses to remove cracked copies of my software after a month. *Hacker News*. https://news.ycombinator.com/item?id=49982498
+-	Kodisang, A. (2026, September 30). Reverse engineering software: benefits & challenges. *Scrums.com*. https://www.scrums.com/blog/reverse-engineering-software
+-	Roman, R. (2026, October 10). REA can reverse engineer anything. it still can’t hack your bank. *Rafael Roman*. https://rafaelroman.com/articles/ai-reverse-engineering-cant-hack-your-bank/
+-	Tsagkarakis, G. (2026, October 14). AI Reverse Engineering Tool REA Explodes On GitHub As Modders Port GTA V To IPhone And Clone Adobe's. *eGamers.io*. https://egamers.io/ai-reverse-engineering-tool-rea-explodes-on-github-as-modders-port-gta-v-to-iphone-and-clone-adobes-suite/
+
