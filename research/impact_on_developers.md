@@ -65,6 +65,18 @@ REA still develops some inaccurate versions, because it cannot always recover th
 -	**IA-32 Instruction Exploits:** Use special processor instructions complicate debuggers workflow.
 -	**Nanomites:** Replace some jump instructions (commands that tell the program to continue executing code in another location) with breakpoints and hide jump information in an encrypted table. 
 
-## DEVELOPERS OPINIONS
+## DEVELOPERS OPINIONS  
+### Brandon Thomas ~ ArtCraft creator
+Background: Thomas describes himself as “a 15-year industry veteran” and says he is “not casual vibe coder.”
+Perspective of REA: Thomas describes ArtCraft as a “clean-room reimplementation” of Adobe´s applications, recreating their functionality without relying on copyrighted assets or a protected codebase.
+He also states: 
+> “If you’re worried this is just some one-off flash in the pan that will die, it isn’t”  (Gray, 2026)
+
+### Ivan Kutskir ~ Photopea creator
+On the other hand, Kutskir expresses a more negative perspective on REA. He explains that people use AI to copy his website’s JavaScript code, remove its advertisements, and publish modified versions on GitHub. He states:  
+> “Many people are asking AI models to take the Javascript code from my website, remove all ads from it, and they publish such a "new product" on Github for everyone > to download.” (Hacker News, 2026)  
+
+Kutskir is also concerned about the impact on his reputation, explaining that users sometimes mistake modified Photopea versions with the official website.
+> “[…] I want my website to be the only source of a stable version of my program Photopea. I even received emails from people complaining about something in Photopea, and it took several emails to figure out that they are not using Photopea.com (so it ruins my reputation a little). I reported it to Github on the 4th of September 2026: […] a month later, I received this response: […] based on the facts presented to us, we're unable to confirm a violation of 17 U.S. Code § 1201.” (Hacker News, 2026)
 
 ## REFERENCES
