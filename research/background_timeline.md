@@ -20,3 +20,6 @@ The main idea behind REA is to connect coding agents with tools that can investi
 
 - **October 13, 2026:** Version 6.5.0 added further capabilities for JavaScript analysis and included analysis workflows involving managed assemblies, Android, WebAssembly, network data and other software artifacts.
 
+## Sources
+
+- REA official Github repository : https://github.com/morluto/rea
