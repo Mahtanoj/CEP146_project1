@@ -36,8 +36,7 @@ flowchart TD
 |---|---|
 | Useful to investigate abandoned software. | Older systems may contain inefficient code structures, making them difficult to understand and analyze. |
 | Recreate useful functionalities with improvements. | **Copyright:** Developers should avoid completely cloning a program with only minor changes. Instead, they should use REA to innovate and improve their own products. |
-| No advanced technical knowledge is required; users can give prompts in human language. | **Accuracy limitations:** Rebuilding an application accurately remains a weakness of REA, so developers may still struggle to understand how a program works. 
-> “Thomas has also retreated from his pledge to match Adobe’s feature set within a month, and now says it will take months” (Tsagkarakis, 2026). |
+| No advanced technical knowledge is required; users can give prompts in human language. | **Accuracy limitations:** Rebuilding an application accurately remains a weakness of REA, so developers may still struggle to understand how a program works. *“Thomas has also retreated from his pledge to match Adobe’s feature set within a month, and now says it will take months”* (Tsagkarakis, 2026). |
 | **New job opportunities:** Companies still need developers with legacy code skills to review AI results, fix errors, and maintain complex systems. | |
 | Developers can use REA to understand the architecture of poorly documented programs and improve them. | |
 | Developers can use REA to identify potential security risks in their products and projects. | |
@@ -50,7 +49,21 @@ REA still develops some inaccurate versions, because it cannot always recover th
 >  “On the project’s site, the apps carry ‘early alpha’ or ‘in development’ labels, and one pixel artist has already described the Photoshop clone as ‘completely unusable’” (Tsagkarakis, 2026).
 
 
-## GUIDE FOR DEVELOPERS
+## SURVIVING OR THRIVING? GUIDE FOR DEVELOPERS  
+
+-	The user interface and features are becoming less valuable as competitive advantages since they are easier to replicate.
+-	Focus on protecting the elements beyond visible software, such as proprietary data, specialized technical knowledge, unique algorithms, and complex system integrations. 
+-	REA will not necessarily replace software development, but it may reduce the value of simple applications built on existing AI models. 
+    > “It’s more accurate to say it’s compressing the value of thin wrapper apps and front ends built on top of existing AI models” (Chavez-Mattos, 2026)
+-	Mindset shift: Traditionally, developers aim to write simple, clear, and maintainable code. However, REA creates a new challenge for developers by making them consider how to protect their projects from being replicated, without making their code unnecessarily complex, which could increase the risk of errors and make maintenance more difficult.
+> “Every shortcut in the client gets found faster [...] The server boundary is the part that doesn’t get cheaper to break. Get the boundary right, and someone decompiling your app is a researcher reading your request form” (Roman, 2026).
+
+### DEVELOPER VS REA
+***Brief overview of Anti-Reverse Engineering Techniques***
+-	**Inline Functions:** Make the program harder to understand by changing how functions work inside the code.
+-	**Anti-Dumping:** Avoid hackers from saving a copy of the program’s memory (data used while a program is running).
+-	**IA-32 Instruction Exploits:** Use special processor instructions complicate debuggers workflow.
+-	**Nanomites:** Replace some jump instructions (commands that tell the program to continue executing code in another location) with breakpoints and hide jump information in an encrypted table. 
 
 ## DEVELOPERS OPINIONS
 
