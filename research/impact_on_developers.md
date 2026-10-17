@@ -65,7 +65,7 @@ REA still develops some inaccurate versions, because it cannot always recover th
 -	**IA-32 Instruction Exploits:** Use special processor instructions complicate debuggers workflow.
 -	**Nanomites:** Replace some jump instructions (commands that tell the program to continue executing code in another location) with breakpoints and hide jump information in an encrypted table. 
 
-## DEVELOPERS OPINIONS  
+## DEVELOPERS' OPINIONS  
 ### Brandon Thomas ~ ArtCraft creator
 Background: Thomas describes himself as “a 15-year industry veteran” and says he is “not casual vibe coder.”
 Perspective of REA: Thomas describes ArtCraft as a “clean-room reimplementation” of Adobe´s applications, recreating their functionality without relying on copyrighted assets or a protected codebase.
